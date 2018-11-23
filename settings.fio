@@ -1,0 +1,7 @@
+[benchmark]
+rw=randrw
+direct=1
+bs=4k
+time_based=1
+runtime=13
+refill_buffers
