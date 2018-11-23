@@ -1,4 +1,4 @@
-[benchmark]
+[test]
 rw=randrw
 direct=1
 bs=4k
