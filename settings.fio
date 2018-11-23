@@ -5,4 +5,4 @@ bs=4k
 time_based=1
 runtime=13
 refill_buffers
-size=20
+size=20M
